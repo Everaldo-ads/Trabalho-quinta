@@ -11,6 +11,9 @@
                 <a class="nav-link" href="?pg=clientes">Clientes</a>
             </li>
             <li class="nav-item">
+                <a class="nav-link" href="?pg=servicos">Serviços</a>
+            </li>
+            <li class="nav-item">
                 <a class="nav-link" href="?pg=faleconosco">Fale Conosco</a>
             </li>
         </ul>
